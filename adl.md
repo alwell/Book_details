@@ -59,6 +59,8 @@ www.amazon.co.uk (accessed July 2016)
 
 **Name:** Gorkom, Nina Van 	**Role:** Author	
 
+**International Standard Name Identifier (ISNI):** 
+
 **Biography**
 
 Nina van Gorkom was born in 1928 to a family of socialist intellectuals. Her father was a member of the Dutch parliament. She studied at Leyden University and during this time she became a Catholic. In 1952, she married Lodewijk van Gorkom, a Dutch diplomat.
