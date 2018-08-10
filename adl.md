@@ -51,7 +51,7 @@ This book is about Cittas or types of consciousness in a Buddhist context. Ms Va
 
 The first book is simply brilliant. It opens up the abhidhamm in a way the Abhidhamma Sangaha cannot to a complete beginner. The Sangaha is of course a primary, vital reference - but Van Gorkhum's treatment is more like a dictionary of some of the major types of consciousness as summarised in the A. Sangaha.
 
-I can't put the book down and read it chapter by chapter - rereading. I'd really like to study her other books when I have the time and own them as this is the secret doctrine, the magical teaching on how the mind works.
+I can't put the book down and read it chapter by chapter - re-reading. I'd really like to study her other books when I have the time and own them as this is the secret doctrine, the magical teaching on how the mind works.
 
 I hope you get the opportunity to study this.
 
@@ -65,6 +65,6 @@ www.amazon.co.uk (accessed July 2016)
  
 **Prior Work:**
 
-Buddhism in Daily Life; The Buddha's Path; Cetasikas; A Survey of Paramattha Dhammas (translator); The Perfections Leading to Enlightenment; Lovingkindness in Buddhism; The Conditionality of life; The Buddhist Teaching on Physical Phenomena; Taking Refuge in Buddhism (translator); The world in the Buddhist sense; Understanding Reality.
+Buddhism in Daily Life; The Buddha's Path; Cetasikas; A Survey of Paramattha Dhammas (translator); The Perfections Leading to Enlightenment; Lovingkindness in Buddhism; The Conditionality of life; The Buddhist Teaching on Physical Phenomena; Taking Refuge in Buddhism (translator); The World in the Buddhist sense; Understanding Reality.
  
 **Location**: The Hague, Holland.
