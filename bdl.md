@@ -1,46 +1,49 @@
 ## About the book
+A general introduction to the main ideas of Theravada Buddhism. The purpose of this book is to help the reader gain insight into the Buddhist scriptures and the way in which the teachings can be used to benefit both ourselves and others in everyday life. Several chapters are written in the form of question and answer, inspired by questions posed by ordinary people who were confronted with difficulties in the practical application of the teachings. The book will be an invaluable aid for those individuals who wish to develop the Buddhist path to true understanding. Suitable for both practicing Buddhists and newcomers to the teachings.
 
  Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
 **Short Description** 
+A general introduction to the main ideas of Theravada Buddhism. The purpose of this book is to help the reader gain insight into the Buddhist scriptures and the way in which the teachings can be used to benefit both ourselves and others in everyday life.  
 
 
 **Table of Contents** 
 
-**Keywords** abhidhamma; buddhism; mindfulness; meditation; vipassana; insight
+**Keywords** buddhism; mindfulness; meditation; vipassana; insight; dhamma
 
 **Language** English
 
 **Edition** 
+Fourth revision 
 
-**ISBN Complete:**
+**ISBN Complete:** 978-1-897633-28-1
 
-**Publication Date:** 
+**Publication Date:**  1/12/2014
 
-**First published:** 
+**First published:** 1977 for free distribution
 
-**Page Count:** 
+**Page Count:** 152
 
-**Book type** 
+**Book type** Hard back, plain front cover, B&W 6.14 x 9.21in or 234 x 156mm (Royal 8vo) Blue Cloth on Creme
 
 **Thema Subject Category:** QRFB1
 
 **Market pricing**
 
-Spain Printer Network 	XXX USD;
-United States 	XXX USD;
-United Kingdom 	XXX GBP;
-Canada 	XXX CAD;
-European Union 	XXX EUR;
-Australia (GST Exclusive) XXX AUD;
-Brazil Printer Network 	XXX USD;
-Germany Printer Network XXX USD;
-Russia Printer Network 	XXX USD;
-South Korea Printer Network 	XXX USD;
-Poland Printer Network 	XXX USD; 
-China Printer Network 	XXX USD; 
-India Printer Network 	XXX USD; 
-Italy Printer Network 	XXX USD. 
+Spain Printer Network 	27.00 USD;
+United States 	27 USD;
+United Kingdom 	20.00 GBP;
+Canada 	35.00  CAD;
+European Union 	23.00 EUR;
+Australia (GST Exclusive) 36.00 AUD;
+Brazil Printer Network 	27.00 USD;
+Germany Printer Network 27.00 USD;
+Russia Printer Network 	27.00 USD;
+South Korea Printer Network 	27.00 USD;
+Poland Printer Network 	27.00 USD; 
+China Printer Network 	27.00 USD; 
+India Printer Network 	27.00 USD; 
+Italy Printer Network 	27.00 USD. 
 
 **Reviews:**
 
