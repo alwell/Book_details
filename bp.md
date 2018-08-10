@@ -48,6 +48,11 @@ India Printer Network 	24.00 USD;
 Italy Printer Network 	24.00 USD. 
 
 **Reviews:**
+A thorough introduction to Buddhist ideas. The writer has a knack of relating profound concepts to daily life. (Amazon)
+
+5.0 out of 5 stars. Clear, accurate and packed with info.(Amazon)
+
+I consider "The Buddha's Path" to be the best introductory book on the Buddha's Teachings with its emphasis on understanding the truth of life at this very moment as taught by the Buddha. (Sarah Abbott, Dhamma Study Group, Thailand)
 
 
 
