@@ -39,9 +39,9 @@ Italy Printer Network 	32.00 USD.
 
 **Reviews:**
 
-     ADL 5.0 out of 5 stars,concise clear and spiritually alive teaching.
+> ADL 5.0 out of 5 stars,concise clear and spiritually alive teaching.
 
-    As a teacher myself in England working with students aged 13-18; I found the layout of the text to be of the clearest teaching methods that the most professional of teachers would employ. More so as a teacher of Religious Studies and a practising Buddhist I thank Nina for enlarging my understanding of the Dharma through such an interesting living approach to what can easily succumb to be a dreary intellectual task. Amazon.com (accessed 15/10/17)
+As a teacher myself in England working with students aged 13-18; I found the layout of the text to be of the clearest teaching methods that the most professional of teachers would employ. More so as a teacher of Religious Studies and a practising Buddhist I thank Nina for enlarging my understanding of the Dharma through such an interesting living approach to what can easily succumb to be a dreary intellectual task. Amazon.com (accessed 15/10/17)
 
      Abhidhamma made easy
 
