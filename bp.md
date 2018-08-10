@@ -1,11 +1,16 @@
 ## About the book
 
+An Introduction to the doctrine of Theravada Buddhism for those who have no previous knowledge. The four noble Truths - suffering - the origin of suffering - the cessation of suffering - and the way leading to the end of suffering - are explained as a philosophy and a practical guide which can be followed in today's world.
+
+The author has a deep authoritative background and has already had several books on the Abhidhamma (higher teaching) published. This book explains the Buddhist doctrine in a straightforward manner but does not shy away from the  'depth, subtlety and difficulty' of the original teaching. Contains 50 quotations from the original Pali texts.
+
+
  Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
-**Short Description** 
+**Short Description** An introduction to the doctrine of Theravada Buddhism and the development of mindfulness through the Buddhist tradition.  
 
 
-**Table of Contents** 
+**Table of Contents** Preface: Introduction: The Truth of Suffering: The Truth of non-self: The Mind: Deeds and their Results: Good Deeds and a Wholesome Life: Mental Development and Meditation: The Eightfold Path: Glossary.
 
 **Keywords** abhidhamma; buddhism; mindfulness; meditation; vipassana; insight
 
@@ -13,34 +18,34 @@
 
 **Edition** 
 
-**ISBN Complete:**
+**ISBN Complete:** 978-1-897633-29-8
 
-**Publication Date:** 
+**Publication Date:** 5/1/2014
 
 **First published:** 
 
-**Page Count:** 
+**Page Count:** 122
 
-**Book type** 
+**Book type** Hard back, plain cover, B&W 6 x 9 in or 229 x 152 mm Blue Cloth on Creme.
 
 **Thema Subject Category:** QRFB1
 
 **Market pricing**
 
-Spain Printer Network 	XXX USD;
-United States 	XXX USD;
-United Kingdom 	XXX GBP;
-Canada 	XXX CAD;
-European Union 	XXX EUR;
-Australia (GST Exclusive) XXX AUD;
-Brazil Printer Network 	XXX USD;
-Germany Printer Network XXX USD;
-Russia Printer Network 	XXX USD;
-South Korea Printer Network 	XXX USD;
-Poland Printer Network 	XXX USD; 
-China Printer Network 	XXX USD; 
-India Printer Network 	XXX USD; 
-Italy Printer Network 	XXX USD. 
+Spain Printer Network 	24.00 USD;
+United States 	24.00 USD;
+United Kingdom 	18.00 GBP;
+Canada 	31.00 CAD;
+European Union 	20.00 EUR;
+Australia (GST Exclusive) 32 AUD;
+Brazil Printer Network 	24.00 USD;
+Germany Printer Network 24.00 USD;
+Russia Printer Network 	24.00 USD;
+South Korea Printer Network 	24.00 USD;
+Poland Printer Network 	24.00 USD; 
+China Printer Network 	24.00 USD; 
+India Printer Network 	24.00 USD; 
+Italy Printer Network 	24.00 USD. 
 
 **Reviews:**
 
