@@ -59,7 +59,7 @@ www.amazon.co.uk (accessed July 2016)
 
 **Name:** Gorkom, Nina Van 	**Role:** Author	
 
-**International Standard Name Identifier (ISNI):** 
+**International Standard Name Identifier (ISNI):** 0000 0000 6398 0326
 
 **Biography**
 
