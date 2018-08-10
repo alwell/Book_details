@@ -8,6 +8,45 @@ A general introduction to the main ideas of Theravada Buddhism. The purpose of t
 
 
 **Table of Contents** 
+* Preface::
+
+* General Aspects of Buddhism::
+
+* Right Understanding in Daily Life::
+
+* The Teaching of Dhamma::
+
+* Wholesome Deeds::
+
+* Mental Development::
+
+* The Buddha::
+
+* The Dhamma::
+
+* The Sangha::
+
+* Death::
+
+* Life::
+
+* The Development of Calm::
+
+* Vipassanā::
+
+* The Eightfold Path::
+
+* Factors of the Eightfold Path::
+
+* Right Effort::
+
+* Right Mindfulness::
+
+* Right Concentration::
+
+* The Highest Blessings::
+
+* Glossary::
 
 **Keywords** buddhism; mindfulness; meditation; vipassana; insight; dhamma
 
@@ -46,6 +85,17 @@ India Printer Network 	27.00 USD;
 Italy Printer Network 	27.00 USD. 
 
 **Reviews:**
+
+5.0 out of 5 stars profound
+
+By A Customer on 9 Feb. 2000
+
+A book for those who are not satisfied with watered down versions of the Buddha's teaching. Nina Van Gorkom conveys the sublime wisdom of Buddhism admirably. A book that should be read over and over. A book for those who are not satisfied with watered down versions of the Buddha's teaching. Nina Van Gorkom conveys the sublime wisdom of Buddhism admirably. A book that should be read over and over. amazon.
+
+This is not an easy book, but books on such matters as religion can not be rated based on easiness. For readers who are interested in understanding the depth of the Buddha's Teaching, this is a very good introduction. It gives a clear summary of the main points without simplifying the vastness and complexity of the Buddha's wisdom, something that has become unfortunately a common tendency in many Buddhist books written in modern time. It is to be read with much reflection and consideration, sinc ...more
+
+Goodreads (accessed July 2016)
+ 
 
 
 
