@@ -16,6 +16,8 @@ Abhidhamma in Daily Life is an exposition of absolute realities in detail. Abhid
 
 **Publication Date:** 1/12/2014
 
+**First published:** 1977 (approximately) for free distribution.
+
 **Page Count:** 200 
 
 **Book type** Hard back, plain cover, B&W 6.14 x 9.21in or 234 x 156mm (Royal 8vo) Blue Cloth on Creme
