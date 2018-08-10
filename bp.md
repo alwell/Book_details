@@ -16,13 +16,13 @@ The author has a deep authoritative background and has already had several books
 
 **Language** English
 
-**Edition** 
+**Edition** 3rd revision
 
 **ISBN Complete:** 978-1-897633-29-8
 
 **Publication Date:** 5/1/2014
 
-**First published:** 
+**First published:** 1994
 
 **Page Count:** 122
 
