@@ -39,10 +39,12 @@ Italy Printer Network 	32.00 USD
 
 ## About the author
 
-**Name** Gorkom, Nina Van 	**Role** Author	
+**Name:** Gorkom, Nina Van 	**Role:** Author	
 
 **Biography**
  
-**Prior Work**
+**Prior Work:**
+
+Buddhism in Daily Life; The Buddha's Path; Cetasikas; Survey of Paramattha Dhammas (translator); The Perfections Leading to Enlightenment; Lovingkindness in Buddhism; The Conditionality of life; The Buddhist Teaching on Physical Phenomena; Taking Refuge in Buddhism (translator); The world in the Buddhist sense; Understanding Reality.
  
-**Location**
+**Location**: The Hague, Holland.
