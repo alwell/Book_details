@@ -27,7 +27,7 @@ United States 	32.00 USD
 United Kingdom 	22.00 GBP
 Canada 	38.00 CAD
 European Union 	25.00 EUR
-Australia (GST Exclusive)
+Australia (GST Exclusive) 40.00 AUD
 Brazil Printer Network 	32.00 USD
 Germany Printer Network 32.00 USD
 Russia Printer Network 	32.00 USD
