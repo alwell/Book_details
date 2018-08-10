@@ -8,45 +8,8 @@ A general introduction to the main ideas of Theravada Buddhism. The purpose of t
 
 
 **Table of Contents** 
-* Preface::
 
-* General Aspects of Buddhism::
-
-* Right Understanding in Daily Life::
-
-* The Teaching of Dhamma::
-
-* Wholesome Deeds::
-
-* Mental Development::
-
-* The Buddha::
-
-* The Dhamma::
-
-* The Sangha::
-
-* Death::
-
-* Life::
-
-* The Development of Calm::
-
-* Vipassanā::
-
-* The Eightfold Path::
-
-* Factors of the Eightfold Path::
-
-* Right Effort::
-
-* Right Mindfulness::
-
-* Right Concentration::
-
-* The Highest Blessings::
-
-* Glossary::
+Preface: General Aspects of Buddhism: Right Understanding in Daily Life: The Teaching of Dhamma: Wholesome Deeds:Mental Development:The Buddha:The Dhamma:The Sangha: Death: Life:The Development of Calm: Vipassanā: The Eightfold Path: Factors of the Eightfold Path: Right Effort: Right Mindfulness: Right Concentration: The Highest Blessings: Glossary:
 
 **Keywords** buddhism; mindfulness; meditation; vipassana; insight; dhamma
 
