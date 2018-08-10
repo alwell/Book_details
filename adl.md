@@ -18,6 +18,8 @@ Abhidhamma in Daily Life is an exposition of absolute realities in detail. Abhid
 
 **Page Count:** 200 
 
+**Book type** Hard back, plain cover, B&W 6.14 x 9.21in or 234 x 156mm (Royal 8vo) Blue Cloth on Creme
+
 **Market pricing**
 
 Spain Printer Network 	32.00 USD
