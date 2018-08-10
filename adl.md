@@ -22,20 +22,20 @@ Abhidhamma in Daily Life is an exposition of absolute realities in detail. Abhid
 
 **Market pricing**
 
-Spain Printer Network 	32.00 USD
-United States 	32.00 USD
-United Kingdom 	22.00 GBP
-Canada 	38.00 CAD
-European Union 	25.00 EUR
-Australia (GST Exclusive) 40.00 AUD
-Brazil Printer Network 	32.00 USD
-Germany Printer Network 32.00 USD
-Russia Printer Network 	32.00 USD
-South Korea Printer Network 	32.00 USD
-Poland Printer Network 	32.00 USD 
-China Printer Network 	32.00 USD 
-India Printer Network 	32.00 USD 
-Italy Printer Network 	32.00 USD 
+Spain Printer Network 	32.00 USD;
+United States 	32.00 USD;
+United Kingdom 	22.00 GBP;
+Canada 	38.00 CAD;
+European Union 	25.00 EUR;
+Australia (GST Exclusive) 40.00 AUD;
+Brazil Printer Network 	32.00 USD;
+Germany Printer Network 32.00 USD;
+Russia Printer Network 	32.00 USD;
+South Korea Printer Network 	32.00 USD;
+Poland Printer Network 	32.00 USD; 
+China Printer Network 	32.00 USD; 
+India Printer Network 	32.00 USD; 
+Italy Printer Network 	32.00 USD. 
 
 **Reviews:**
 
@@ -65,6 +65,6 @@ www.amazon.co.uk (accessed July 2016)
  
 **Prior Work:**
 
-Buddhism in Daily Life; The Buddha's Path; Cetasikas; Survey of Paramattha Dhammas (translator); The Perfections Leading to Enlightenment; Lovingkindness in Buddhism; The Conditionality of life; The Buddhist Teaching on Physical Phenomena; Taking Refuge in Buddhism (translator); The world in the Buddhist sense; Understanding Reality.
+Buddhism in Daily Life; The Buddha's Path; Cetasikas; A Survey of Paramattha Dhammas (translator); The Perfections Leading to Enlightenment; Lovingkindness in Buddhism; The Conditionality of life; The Buddhist Teaching on Physical Phenomena; Taking Refuge in Buddhism (translator); The world in the Buddhist sense; Understanding Reality.
  
 **Location**: The Hague, Holland.
