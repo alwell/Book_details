@@ -36,3 +36,13 @@ Poland Printer Network 	32.00 USD
 China Printer Network 	32.00 USD 
 India Printer Network 	32.00 USD 
 Italy Printer Network 	32.00 USD 
+
+## About the author
+
+**Name** Gorkom, Nina Van 	**Role** Author	
+
+**Biography**
+ 
+**Prior Work**
+ 
+**Location**
