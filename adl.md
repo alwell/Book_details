@@ -63,6 +63,6 @@ www.amazon.co.uk (accessed July 2016)
  
 **Prior Work:**
 
-Buddhism in Daily Life; The Buddha's Path; Cetasikas; A Survey of Paramattha Dhammas (translator); The Perfections Leading to Enlightenment; Lovingkindness in Buddhism; The Conditionality of life; The Buddhist Teaching on Physical Phenomena; Taking Refuge in Buddhism (translator); The World in the Buddhist sense; Understanding Reality; Introduction to Abhidhamma; Abhidhamma in Daily Life.
+Buddhism in Daily Life; The Buddha's Path; Cetasikas; A Survey of Paramattha Dhammas (translator); The Perfections Leading to Enlightenment; Lovingkindness in Buddhism; The Conditionality of life; The Buddhist Teaching on Physical Phenomena; Taking Refuge in Buddhism (translator); The World in the Buddhist Sense; Understanding Reality; Introduction to Abhidhamma; Abhidhamma in Daily Life.
  
 **Location**: The Hague, Holland.
