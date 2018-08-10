@@ -10,7 +10,7 @@ The author has a deep authoritative background and has already had several books
 **Short Description** An introduction to the doctrine of Theravada Buddhism and the development of mindfulness through the Buddhist tradition.  
 
 
-**Table of Contents** Preface: Introduction: The Truth of Suffering: The Truth of non-self: The Mind: Deeds and their Results: Good Deeds and a Wholesome Life: Mental Development and Meditation: The Eightfold Path: Glossary.
+**Table of Contents** Preface: Introduction: The truth of suffering: The truth of non-self: The mind: Deeds and their results: Good deeds and a wholesome life: Mental development and meditation: The Eightfold Path: Glossary.
 
 **Keywords** abhidhamma; buddhism; mindfulness; meditation; vipassana; insight
 
