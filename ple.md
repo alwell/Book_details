@@ -49,7 +49,7 @@ Italy Printer Network 	25.00 USD.
 
 **Reviews:**
 
-
+5.0 ***** ·  3 Ratings  (Goodreads)
 
 ## About the author
 
