@@ -33,20 +33,20 @@ Preface: 1 Introduction; 2 Root-Condition: 3 Object-Condition: 4 Predominance-Co
 
 **Market pricing**
 
-Spain Printer Network 	XXX USD;
-United States 	XXX USD;
-United Kingdom 	XXX GBP;
-Canada 	XXX CAD;
-European Union 	XXX EUR;
-Australia (GST Exclusive) XXX AUD;
-Brazil Printer Network 	XXX USD;
-Germany Printer Network XXX USD;
-Russia Printer Network 	XXX USD;
-South Korea Printer Network 	XXX USD;
-Poland Printer Network 	XXX USD; 
-China Printer Network 	XXX USD; 
-India Printer Network 	XXX USD; 
-Italy Printer Network 	XXX USD. 
+Spain Printer Network 	15.00 USD;
+United States 	15.00 USD;
+United Kingdom 	10.00 GBP;
+Canada 	17.00 CAD;
+European Union 	11.00 EUR;
+Australia (GST Exclusive) 18.00 AUD;
+Brazil Printer Network 	15.00 USD;
+Germany Printer Network 15.00 USD;
+Russia Printer Network 	15.00 USD;
+South Korea Printer Network 	15.00 USD;
+Poland Printer Network 	15.00 USD; 
+China Printer Network 	15.00 USD; 
+India Printer Network 	15.00 USD; 
+Italy Printer Network 	15.00 USD. 
 
 **Reviews:**
 
