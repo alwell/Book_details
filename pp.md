@@ -1,11 +1,18 @@
 ## About the book
 
+A general introduction to physical phenomena and the way they are related to each other and to mental phenomena. The purpose of this book is to show that the study of both mental phenomena and physical phenomena is indispensable for the development of the eightfold Path. The quotations from the scriptures provide the reader with lively examples of the way the physical phenomena, which are depending on conditions, perform their functions in daily life. The study of this book will help the reader to understand the Buddha's teaching of non-self. This book is suitable for those who already have some knowledge of Buddhism
+
  Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
 **Short Description** 
 
+A general introduction to physical phenomena and the way they are related to each other and to mental phenomena. The purpose of this book is to show that the study of both mental phenomena and physical phenomena is indispensable for the development of the Eightfold Path.  
+
+
 
 **Table of Contents** 
+
+Preface: 1 Introduction; 2 Root-Condition: 3 Object-Condition: 4 Predominance-Condition: 5 Proximity and Contiguity-Condition: 6 Conascence and Mutuality-Condition: 7 Dependence-Condition: 8 Decisive Support-Condition (Part I): 9 Decisive Support-Condition (Part II): 10 Prenascence, Postnascence-Condition: 11 Repetition-Condition: 12 Kamma and Vipaka-Condition: 13 Nutriment-Condition: 14 Faculty-Condition: 15 Jhana-Condition: 16 Path-Condition: 17 Three Pairs of Conditions: 18 Aspects of the Twenty-Four Conditions: Appendix 1: Appendix 2: Appendix 3: GlossaryPrefaceIntroduction: 1 The Four Great Elements: 2 The Eight Inseparables: 3 The Sense-Organs: 4 Sense Objects: 5 Subtle Rupas  and Kamma: 6 Intimation: 7 Rupas  from different Factors: 8 Characteristics of all Rupas: 9 Groups of Rupas:  10 Conclusion: Glossary
 
 **Keywords** abhidhamma; buddhism; mindfulness; meditation; vipassana; insight
 
@@ -13,38 +20,40 @@
 
 **Edition** 
 
-**ISBN Complete:**
+**ISBN Complete:** 978-1-897633-25-0
 
-**Publication Date:** 
+**Publication Date:** 3/1/2009
 
 **First published:** 
 
-**Page Count:** 
+**Page Count:** 104
 
-**Book type** 
+**Book type** Paperback, B&W 6 x 9 in or 229 x 152 mm Perfect Bound on Creme w/Gloss Lam
 
 **Thema Subject Category:** QRFB1
 
 **Market pricing**
 
-Spain Printer Network 	XXX USD;
-United States 	XXX USD;
-United Kingdom 	XXX GBP;
-Canada 	XXX CAD;
-European Union 	XXX EUR;
-Australia (GST Exclusive) XXX AUD;
-Brazil Printer Network 	XXX USD;
-Germany Printer Network XXX USD;
-Russia Printer Network 	XXX USD;
-South Korea Printer Network 	XXX USD;
-Poland Printer Network 	XXX USD; 
-China Printer Network 	XXX USD; 
-India Printer Network 	XXX USD; 
-Italy Printer Network 	XXX USD. 
+Spain Printer Network 	20.00 USD;
+United States 	20.00 USD;
+United Kingdom 	12.95 GBP;
+Canada 	22.00 CAD;
+European Union 	15.00  EUR;
+Australia (GST Exclusive) 23.00 AUD;
+Brazil Printer Network 	20.00 USD;
+Germany Printer Network 20.00 USD;
+Russia Printer Network 	20.00 USD;
+South Korea Printer Network 	20.00 USD;
+Poland Printer Network 	20.00 USD; 
+China Printer Network 	20.00 USD; 
+India Printer Network 	20.00 USD; 
+Italy Printer Network 	20.00 USD. 
 
 **Reviews:**
 
+Soncek 5.0 out of 5 starsFive Stars
 
+28 June 2014. Very inspiring and clearly written. (Amazon.co.uk
 
 ## About the author
 
