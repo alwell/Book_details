@@ -48,11 +48,15 @@ Italy Printer Network 	XXX USD.
 
 ## About the author
 
-**Name:** Gorkom, Nina Van 	**Role:** Author	
+**Name:** Sujin Boriharnwanaket **Role** Author
+
+**Name:** Gorkom, Nina Van 	**Role:** Translator	
 
 **International Standard Name Identifier (ISNI):** 0000 0000 6398 0326
 
 **Biography**
+
+Sujin Boriharnwanaket, born 1927, is a Thai Vipassana and Abhidhamma teacher. She graduate dfrom Triam Udom High School and has published numerous books and articles in Thai and English. She has also given lectures on radio throughout Thailand on a regular basis.
 
 Nina van Gorkom was born in 1928 to a family of socialist intellectuals. Her father was a member of the Dutch parliament. She studied at Leyden University and during this time she became a Catholic. In 1952, she married Lodewijk van Gorkom, a Dutch diplomat.
 
@@ -63,6 +67,12 @@ Nina and Lodewijk left Thailand in 1970 and lived in Japan, New York, Indonesia 
 Nina’s writings are well-known amongst English speaking Buddhists, and she is highly respected in Thailand where several of her books have been translated into the Thai language with (after many reprints) over one hundred thousand copies now. Her books have also been translated in Sri Lanka, Indonesia, Nepal, China, Vietnam and Germany. 
  
 **Prior Work:**
+
+*Sujin Boriharnwanaket:*
+
+Answering Dhamma Questions, Adelaide: Adelaide Dhamma Study Group, 1977. The Development of Insight, Bangkok: Thailand: Abhidhamma foundation, 1979. Metta: Lovingkindness in Buddhism, Nina van Gorkom translation: Triple Gem, 1995. Taking Refuge in Buddhism, Nina van Gorkom translation: Zolag, 1996. Realities and concepts: the Buddha's explanation of the world, Nina van Gorkom translation: Thailand: Dhamma Study and Support Foundation, 2000. A Survey of Paramattha Dhammas, Nina van Gorkom translation: Dhamma Study and Support Foundation, 2005 (Zolag 226). The Perfections Leading to Enlightenment, Nina van Gorkom translation: Zolag, 2007
+
+*Nina van Gorkom*
 
 Buddhism in Daily Life; The Buddha's Path; Cetasikas; A Survey of Paramattha Dhammas (translator); The Perfections Leading to Enlightenment; Lovingkindness in Buddhism; The Conditionality of life; The Buddhist Teaching on Physical Phenomena; Taking Refuge in Buddhism (translator); The World in the Buddhist Sense; Understanding Reality; Introduction to Abhidhamma; Abhidhamma in Daily Life.
  
