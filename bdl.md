@@ -1,4 +1,4 @@
-## About the book
+## About Buddhism in Daily Life
 A general introduction to the main ideas of Theravada Buddhism. The purpose of this book is to help the reader gain insight into the Buddhist scriptures and the way in which the teachings can be used to benefit both ourselves and others in everyday life. Several chapters are written in the form of question and answer, inspired by questions posed by ordinary people who were confronted with difficulties in the practical application of the teachings. The book will be an invaluable aid for those individuals who wish to develop the Buddhist path to true understanding. Suitable for both practicing Buddhists and newcomers to the teachings.
 
  Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
