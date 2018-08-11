@@ -1,27 +1,33 @@
 ## About the book
 
- Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
+Why do we do what we do? why do we see what we see? Seeing, attachment, generosity, all experiences in life can arise only because of a concurrence of conditions. This book is an introduction to the seventh book of the Abhidhamma, that deals with the conditionality of life. It explains the deep underlying motives for all actions through body, speech and mind and shows that these are dependent on conditions and cannot be controlled by a 'self'. The study of conditions is indispensable for understanding the teaching of the 'Dependent Origination' and the meaning of the Buddha's teaching of non-self. This book is suitable for those who have already made a study of the Buddha's teachings.
+
+Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
 **Short Description** 
 
+This book is an introduction to the seventh book of the Abhidhamma, that deals with the conditionality of life. It explains the deep underlying motives for all actions through body, speech and mind and shows that these are dependent on conditions and cannot be controlled by a 'self'.  
+
 
 **Table of Contents** 
+
+Preface: 1 Introduction; 2 Root-Condition: 3 Object-Condition: 4 Predominance-Condition: 5 Proximity and Contiguity-Condition: 6 Conascence and Mutuality-Condition: 7 Dependence-Condition: 8 Decisive Support-Condition (Part I): 9 Decisive Support-Condition (Part II): 10 Prenascence, Postnascence-Condition: 11 Repetition-Condition: 12 Kamma and Vipaka-Condition: 13 Nutriment-Condition: 14 Faculty-Condition: 15 Jhana-Condition: 16 Path-Condition: 17 Three Pairs of Conditions: 18 Aspects of the Twenty-Four Conditions: Appendix 1: Appendix 2: Appendix 3: Glossary.
 
 **Keywords** abhidhamma; buddhism; mindfulness; meditation; vipassana; insight
 
 **Language** English
 
-**Edition** 
+**Edition** First edition
 
-**ISBN Complete:**
+**ISBN Complete:** 978-1-897633-26-7
 
-**Publication Date:** 
+**Publication Date:**  1/6/2010
 
 **First published:** 
 
-**Page Count:** 
+**Page Count:** 150
 
-**Book type** 
+**Book type** Paperback, B&W 7.5 x 9.25 in or 235 x 191 mm Perfect Bound on White w/Gloss Lam
 
 **Thema Subject Category:** QRFB1
 
