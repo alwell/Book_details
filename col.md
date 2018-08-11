@@ -52,6 +52,15 @@ Italy Printer Network 	15.00 USD.
 
 
 
+Selamat rodjali
+
+3.0 out of 5 starsgood starter for understanding conditions
+
+23 October 2013 - Published on Amazon.com
+
+The language of this book is light and easy to understand. Need more examples for each chapter of conditions explained in this book...
+
+
 ## About the author
 
 **Name:** Gorkom, Nina Van 	**Role:** Author	
