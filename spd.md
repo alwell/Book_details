@@ -50,7 +50,11 @@ Italy Printer Network 	XXX USD.
 
 **Reviews:**
 
-
+Aki Karvonen
+5.0 out of 5 stars Excellent survey to Abhidhamma
+11 June 2018 (Amazon.co.uk)
+Format: Hardcover
+In my opinion the best introduction on Theravada Abhidhamma. Clear, systematic and written in simple English. It includes just the right amount of repetition to make it easier to digest this pretty difficult part of the Pali Canon, i.e. the Abhidhamma Pitaka. Maybe Bhikkhu Bodhi's Comprehensive Manual of Abhidhamma and Nina Van Gorkom's Abhidhamma in Daily Life could be read first, and then this book. 
 
 ## About the author
 
