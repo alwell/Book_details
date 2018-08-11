@@ -1,4 +1,4 @@
-## About the book
+## About The Buddha'a Path
 
 An Introduction to the doctrine of Theravada Buddhism for those who have no previous knowledge. The four noble Truths - suffering - the origin of suffering - the cessation of suffering - and the way leading to the end of suffering - are explained as a philosophy and a practical guide which can be followed in today's world.
 
