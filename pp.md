@@ -51,7 +51,7 @@ Italy Printer Network 	20.00 USD.
 
 **Reviews:**
 
-Soncek 5.0 out of 5 stars23.00
+Soncek 5.0 out of 5 stars
 
 28 June 2014. Very inspiring and clearly written. (Amazon.co.uk)
 
