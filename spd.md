@@ -17,36 +17,36 @@ Introduction 1. Book info 2. Preface 3. Part I General Introduction 3.1. The Scr
 
 **Language** English
 
-**Edition** 
+**Edition** 1st edition
 
-**ISBN Complete:**
+**ISBN Complete:** 1-897633-21-1
 
-**Publication Date:** 
+**Publication Date:**  7/5/2006
 
 **First published:** 
 
-**Page Count:** 
+**Page Count:** 480 
 
-**Book type** 
+**Book type** Hardback, plain cover, B&W 5.5 x 8.5 in or 216 x 140 mm (Demy 8vo) Blue Cloth on Creme
 
 **Thema Subject Category:** QRFB1
 
 **Market pricing**
 
-Spain Printer Network 	XXX USD;
-United States 	XXX USD;
-United Kingdom 	XXX GBP;
-Canada 	XXX CAD;
-European Union 	XXX EUR;
-Australia (GST Exclusive) XXX AUD;
-Brazil Printer Network 	XXX USD;
-Germany Printer Network XXX USD;
-Russia Printer Network 	XXX USD;
-South Korea Printer Network 	XXX USD;
-Poland Printer Network 	XXX USD; 
-China Printer Network 	XXX USD; 
-India Printer Network 	XXX USD; 
-Italy Printer Network 	XXX USD. 
+Spain Printer Network 	34.95 USD;
+United States 	34.95 USD;
+United Kingdom 	21.95  GBP;
+Canada 	38.00 CAD;
+European Union 	25.00 EUR;
+Australia (GST Exclusive) 39.00 AUD;
+Brazil Printer Network 	34.95 USD;
+Germany Printer Network 34.95 USD;
+Russia Printer Network 	34.95 USD;
+South Korea Printer Network 	34.95 USD;
+Poland Printer Network 	34.95 USD; 
+China Printer Network 	34.95 USD; 
+India Printer Network 	34.95 USD; 
+Italy Printer Network 	34.95 USD. 
 
 **Reviews:**
 
@@ -61,14 +61,13 @@ In my opinion the best introduction on Theravada Abhidhamma. Clear, systematic a
 **Name:** Sujin Boriharnwanaket **Role** Author
 
 **Name:** Gorkom, Nina Van 	**Role:** Translator	
-
 **International Standard Name Identifier (ISNI):** 0000 0000 6398 0326
 
 **Biography**
 
-Sujin Boriharnwanaket, born 1927, is a Thai Vipassana and Abhidhamma teacher. She graduate dfrom Triam Udom High School and has published numerous books and articles in Thai and English. She has also given lectures on radio throughout Thailand on a regular basis.
+*Sujin Boriharnwanaket*, born 1927, is a Thai Vipassana and Abhidhamma teacher. She graduate dfrom Triam Udom High School and has published numerous books and articles in Thai and English. She has also given lectures on radio throughout Thailand on a regular basis.
 
-Nina van Gorkom was born in 1928 to a family of socialist intellectuals. Her father was a member of the Dutch parliament. She studied at Leyden University and during this time she became a Catholic. In 1952, she married Lodewijk van Gorkom, a Dutch diplomat.
+*Nina van Gorkom* was born in 1928 to a family of socialist intellectuals. Her father was a member of the Dutch parliament. She studied at Leyden University and during this time she became a Catholic. In 1952, she married Lodewijk van Gorkom, a Dutch diplomat.
 
 In 1965, Lodewijk was posted to Thailand and Nina started learning the Thai language. She took a keen interest in Buddhism, attending classes for foreigners at Wat Mahathat. There she met, in the summer of 1966, Sujin Boriharnwanaket. Impressed by the profundity of the Buddhist teachings, she became convinced of the truth of the Buddha’s words and later assisted Khun Sujin in discussions about Buddhism for Thai radio stations. These talks were later published as Buddhism in Daily Life, her first book.
 
