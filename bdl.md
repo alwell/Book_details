@@ -11,28 +11,17 @@ A general introduction to the main ideas of Theravada Buddhism. The purpose of t
 
 Preface: General Aspects of Buddhism: Right Understanding in Daily Life: The Teaching of Dhamma: Wholesome Deeds:Mental Development:The Buddha:The Dhamma:The Sangha: Death: Life:The Development of Calm: Vipassanā: The Eightfold Path: Factors of the Eightfold Path: Right Effort: Right Mindfulness: Right Concentration: The Highest Blessings: Glossary:
 
-| Category | Information |
+|Category|Meta-data|
 |---|---|
-|**Keywords** |buddhism; mindfulness; meditation; vipassana; insight; dhamma|
-
-
-
-**Language** English
-
-**Edition** 
-Fourth revision 
-
-**ISBN Complete:** 978-1-897633-28-1
-
-**Publication Date:**  1/12/2014
-
-**First published:** 1977 for free distribution
-
-**Page Count:** 152
-
-**Book type** Hard back, plain front cover, B&W 6.14 x 9.21in or 234 x 156mm (Royal 8vo) Blue Cloth on Creme
-
-**Thema Subject Category:** QRFB1
+|*Keywords:*|buddhism; mindfulness; meditation; vipassana; insight; dhamma|
+|*Edition:*|Fourth revision| 
+|*Language:*|English|
+|*Book type:*|Hard back, plain front cover, B&W 6.14 x 9.21in or 234 x 156mm (Royal 8vo) Blue Cloth on Creme|
+|*ISBN Complete:*| 978-1-897633-28-1|
+|*Publication Date:*  |1/12/2014|
+|*First published:*| 1977 for free distribution|
+|*Page Count:*| 152|
+|*Thema Subject Category:*| QRFB1|
 
 **Market pricing**
 
