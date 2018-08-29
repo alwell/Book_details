@@ -1,9 +1,13 @@
-## Biography of Ms. Sujin Boriharnwannaket, President of the Dhamma Study and Support Foundation
+# About Sujin Boriharnwannaket 
+
+## President of the Dhamma Study and Support Foundation
+
+### Biography
 
 *Birth Date:* January 13, 1927.
 *Place of Birth:* Ubon Ratchathani, Thailand.
 
-### Dhamma Study:
+#### Dhamma Study:
 
 1953: studied Abhidhamma at the Buddhist Association with Mrs.Naeb Mahaneranon, Mr.Boonmee Methangkul.
 
@@ -21,7 +25,7 @@ Previous Dhamma Lectures:
 . 
 Ms. Sujin Boriharnwanaket has written more than fifteen books on Buddhism including "A Survey of Paramattha Dhamma" and "The Conditionality of Life": Her lectures are broadcast from more than twenty broadcasting stations throughout Thailand.
 
-### Honours Received
+#### Honours Received
 
 1985: granted an emblem of honor by Her Royal Highness Princess Sirindhorn in recognition of the great benefits derived from her total dedication to Buddhism. 
 
