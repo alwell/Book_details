@@ -1,6 +1,4 @@
-Sujin Boriharnwannaket 
-
-President of the Dhamma Study and Support Foundation
+# Sujin Boriharnwannaket 
 
 ### Biography
 
