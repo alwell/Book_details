@@ -1,6 +1,6 @@
 # Nina van Gorkom
 
-![Nina]
+![Nina](https://alwell.github.io/Book_details/nina.jpg)
 
 *International Standard Name Identifier (ISNI):* 0000 0000 6398 0326
 
