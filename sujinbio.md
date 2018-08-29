@@ -4,6 +4,8 @@
 
 ### Biography
 
+![Sujin](sujinbio.jpg)
+
 *Birth Date:* January 13, 1927.
 *Place of Birth:* Ubon Ratchathani, Thailand.
 
