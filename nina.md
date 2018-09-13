@@ -16,6 +16,6 @@ Nina’s writings are well-known amongst English speaking Buddhists, and she is 
 
 ### Prior Work:
 
-Buddhism in Daily Life; The Buddha’s Path; Cetasikas; A Survey of Paramattha Dhammas (translator); The Perfections Leading to Enlightenment; Lovingkindness in Buddhism; The Conditionality of life; The Buddhist Teaching on Physical Phenomena; Taking Refuge in Buddhism (translator); The World in the Buddhist Sense; Understanding Reality; Introduction to Abhidhamma; Abhidhamma in Daily Life.
+Buddhism in Daily Life; The Buddha’s Path; Cetasikas; A Survey of Paramattha Dhammas (translator); The Perfections Leading to Enlightenment; Metta: Lovingkindness in Buddhism (translator); The Conditionality of life; The Buddhist Teaching on Physical Phenomena; Taking Refuge in Buddhism (translator); The World in the Buddhist Sense; Understanding Reality (translator); Introduction to Abhidhamma; Abhidhamma in Daily Life.
 
 Location: The Hague, Holland.
