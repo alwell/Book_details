@@ -27,7 +27,7 @@ Contains over 40 quotes from the original scriptures and commentaries.
 
 **Page Count:** 162
 
-**Book type** Hard back, plain cover, B&W 6 x 9 in or 229 x 152 mm Blue Cloth on Creme.
+**Book type** Hard back, plain cover, B&W 5.5 x 8 in Blue Cloth on Creme.
 
 **Thema Subject Category:** QRFB1
 
