@@ -30,8 +30,11 @@ for the development of the eightfold Path.
 This book is an introduction to the seventh book of the Abhidhamma,
 that deals with the conditionality of life. It explains the deep underlying
 motives for all actions through body, speech and mind and shows that these are
-dependent on conditions and cannot be controlled by a ‘self’. This book is suitable for those who have already made a study of
-the Buddha’s teachings.
+dependent on conditions and cannot be controlled by a ‘self’. This book is suitable for those who have already made a study of the Buddha’s teachings.
+
+- **Letters on Vipassanā** By Nina van Gorkom
+A compilation of letters discussing the development of vipassanā, the understanding of the present moment, in daily life. Contains over 40 quotes from the original scriptures and commentaries.  
+
 
 ### Books translated by Nina van Gorkom
 
