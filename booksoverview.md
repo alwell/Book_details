@@ -35,6 +35,9 @@ dependent on conditions and cannot be controlled by a ‘self’. This book is s
 - **Letters on Vipassanā** 
 A compilation of letters discussing the development of vipassanā, the understanding of the present moment, in daily life. Contains over 40 quotes from the original scriptures and commentaries.  
 
+- **Introduction to the Buddistscriptures** 
+An Introduction to the Buddhist scriptures with the aim to encourage the reader to study the texts themselves. The book has a particular emphasis to help with the development of right understanding of all phenomena of life, at the present moment. It is a follow-up to Nina van Gorkom 's book "The Buddha's Path".  
+
 
 ### Books translated by Nina van Gorkom
 
