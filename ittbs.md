@@ -2,7 +2,12 @@
 
 **Author** Nina van Gorkom
 
- Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
+**About**
+
+An Introduction to the Buddhist scriptures with the aim to encourage the reader to study the texts themselves. In that way they can verify that the Buddha’s words were directed to the practice of what he taught, in particular to the development of right understanding of all phenomena of life. In the Appendix there is an enumeration of the texts of the Tipiṭaka and their commentaries with their translations into English. For the chapters many ideas were taken from lectures broadcast on a radio program in Thailand by Sujin Boriharnwanaket. She quotes extensively from all three parts of the scriptures, explains their meaning and inspires people to relate them to their daily life. If the texts are studied only with the purpose of intellectual understanding, we will fail to see the message they contain for our life at this moment and we do not understand the goal of the Buddha’s teachings.
+
+It is a follow-up to Nina van Gorkom ’s book "The Buddha’s Path".
+
 
 **Short Description** 
 An Introduction to the Buddhist scriptures with the aim to encourage the reader to study the texts themselves. The book has a particular emphasis to help with the development of right understanding of all phenomena of life, at the present moment. It is a follow-up to Nina van Gorkom 's book "The Buddha's Path".  
