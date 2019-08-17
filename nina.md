@@ -22,6 +22,8 @@ Location: The Hague, Holland.
 
 #### Interview with Nina van Gorkom about Abhidhamma
 
-
 [https://archive.org/details/interview_201908](https://archive.org/details/interview_201908)
 
+#### Interview by Robert Kirkpatrick, 1999
+
+[https://alwell.github.io/Zolag_Archive/Nina_van_Gorkom/nina_interview.md](https://alwell.github.io/Zolag_Archive/Nina_van_Gorkom/nina_interview.md)
