@@ -19,3 +19,9 @@ Nina’s writings are well-known amongst English speaking Buddhists, and she is 
 Buddhism in Daily Life; The Buddha’s Path; Cetasikas; A Survey of Paramattha Dhammas (translator); The Perfections Leading to Enlightenment; Metta: Lovingkindness in Buddhism (translator); The Conditionality of life; The Buddhist Teaching on Physical Phenomena; Taking Refuge in Buddhism (translator); The World in the Buddhist Sense; Understanding Reality (translator); Introduction to Abhidhamma; Abhidhamma in Daily Life.
 
 Location: The Hague, Holland.
+
+#### Interview with Nina van Gorkom about Abhidhamma
+
+
+[https://archive.org/details/interview_201908](https://archive.org/details/interview_201908)
+
