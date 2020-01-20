@@ -3,7 +3,7 @@
  Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
 **Short Description** 
-Compilation of articles discussing the development of vipassanā, the understanding of the present moment, in daily life. Contains over 40 quotes from the original scriptures and commentaries.
+Compilation of articles discussing the development of vipassanā, the understanding of the present moment, in daily life. Contains over 60 quotes from the original scriptures and commentaries.
 
 **Long Description**
 This book consists of a compilation of articles on the Dhamma written in the period from 2012 until 2018. The material used is from discussions with Ajahn Sujin in Vietnam, Thailand and Sri Lanka on the development of right understanding. She encourages people to develop the understanding of the present moment, since that is the way to the ultimate goal, namely, the eradication of the clinging to the concept of self and of all other defilements. What the Buddha taught is not mere theory, but it is to be applied right now, at this moment. The Buddha taught that all mental phenomena and physical phenomena which naturally appear in our daily life can be objects of mindfulness and right understanding.
