@@ -23,11 +23,11 @@ What is most precious?;{1}Preface}; {2}The best time to understand Truth; {3}The
 
 **Publication Date:** 1st March 2020
 
-**First published:** 
+**First published:** 1st March 2020
 
-**Page Count:** 
+**Page Count:** 420
 
-**Book type** 
+**Book type** Hardback 6.14inx9.21in
 
 **Thema Subject Category:** QRFB1
 
