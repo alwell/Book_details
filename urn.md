@@ -45,9 +45,9 @@ B&W 6.14 x 9.21in or 234 x 156mm (Royal 8vo) Blue Digital Cloth™ Cover on Crem
 Spain Printer Network 	31 USD;
 United States 	31 USD;
 United Kingdom 	24 GBP;
-Canada 	XXX CAD;
-European Union 	XXX EUR;
-Australia (GST Exclusive) XXX AUD;
+Canada 	40 CAD;
+European Union 	28 EUR;
+Australia (GST Exclusive) 45 AUD;
 Brazil Printer Network 	31 USD;
 Germany Printer Network 31 USD;
 Russia Printer Network 	31 USD;
