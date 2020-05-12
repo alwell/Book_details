@@ -34,7 +34,6 @@ January 2019
 
 **Page Count:** 102
 
-
 **Book type** Paperback
 
 **Licence:**
