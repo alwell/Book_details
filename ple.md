@@ -30,6 +30,13 @@ Preface: Introduction: The Ten Perfections in Daily Life, Characteristic, Functi
 
 **Thema Subject Category:** QRFB1
 
+
+**Licence:**
+This work is licensed under the: 
+Creative Commons Attribution-NoDerivs 3.0 Unported License.
+To view a copy of this license, visit:
+http://creativecommons.org/licenses/by-nd/3.0/ 
+
 **Market pricing**
 
 Spain Printer Network 	25.00 USD;
