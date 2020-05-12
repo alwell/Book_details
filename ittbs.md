@@ -37,7 +37,6 @@ January 2019
 **Book type** Paperback
 
 **Licence:**
-
 This work is licensed under the: 
 Creative Commons Attribution-NoDerivs 3.0 Unported License.
 To view a copy of this license, visit:
