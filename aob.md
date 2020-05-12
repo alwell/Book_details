@@ -1,4 +1,4 @@
-## Articles on Buddhism, 2012-2018
+## Understanding Realities Now: Nina's Travelogues
 
  Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
