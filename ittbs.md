@@ -36,6 +36,7 @@ January 2019
 
 
 **Book type** Paperback
+
 **Licence:**
 
 This work is licensed under the: 
