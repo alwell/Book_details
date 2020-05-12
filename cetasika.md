@@ -26,6 +26,13 @@ Cetasika means belonging to the mind. It is a mental factor which accompanies co
 
 **Thema Subject Category:** QRFB1
 
+
+**Licence:**
+This work is licensed under the: 
+Creative Commons Attribution-NoDerivs 3.0 Unported License.
+To view a copy of this license, visit:
+http://creativecommons.org/licenses/by-nd/3.0/ 
+
 **Market pricing**
 
 Spain Printer Network 	38.00 USD USD;
