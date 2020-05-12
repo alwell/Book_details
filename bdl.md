@@ -7,6 +7,7 @@ A general introduction to the main ideas of Theravada Buddhism. The purpose of t
 A general introduction to the main ideas of Theravada Buddhism. The purpose of this book is to help the reader gain insight into the Buddhist scriptures and the way in which the teachings can be used to benefit both ourselves and others in everyday life.  
 
 
+
 **Table of Contents** 
 
 Preface: General Aspects of Buddhism: Right Understanding in Daily Life: The Teaching of Dhamma: Wholesome Deeds:Mental Development:The Buddha:The Dhamma:The Sangha: Death: Life:The Development of Calm: Vipassanā: The Eightfold Path: Factors of the Eightfold Path: Right Effort: Right Mindfulness: Right Concentration: The Highest Blessings: Glossary:
@@ -22,6 +23,13 @@ Preface: General Aspects of Buddhism: Right Understanding in Daily Life: The Tea
 |*First published:*| 1977 for free distribution|
 |*Page Count:*| 152|
 |*Thema Subject Category:*| QRFB1|
+
+
+**Licence:**
+This work is licensed under the: 
+Creative Commons Attribution-NoDerivs 3.0 Unported License.
+To view a copy of this license, visit:
+http://creativecommons.org/licenses/by-nd/3.0/ 
 
 **Market pricing**
 
