@@ -2,13 +2,13 @@
 
  Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
-**Short Description** 
+**Short Description:** 
 
 The beginning of the Buddha's Path is the understanding of life now, little by little. The Teachings of the Buddha are unique in revealing that each conditioned reality in life is not only impermanent and unsatisfactory but also anattā, not-self.
 
 This book consists of 276 Jottings taken from Zoom discussions during the Covid-19 pandemic.
 
-**Long Description**
+**Long Description:**
 
 When trips to Vietnam, Taiwan, Thailand to share and study the Dhamma were cancelled due to Covid 19, Sarah and her husband Jonothan Abbott started to run Zoom discussions at the request of many friends. They were delighted that Ajahn Sujin from the Dhamma Study and Support Foundation, Thailand was able to join these zoom discussions and to take the lead. They have been extremely beneficial to many people around the world.
 
@@ -19,7 +19,7 @@ They are all about the truth of life at the present moment as taught by the Budd
 The beginning of the Path is the understanding of life now, little by little. The Teachings of the Buddha are unique in revealing that each conditioned reality in life is not only impermanent and unsatisfactory but also anattā, not-self.
 
 
-**Table of Contents** 
+**Table of Contents:** 
 
 First 10 Jottings out of 276:
 
@@ -45,11 +45,11 @@ What is Practice?;
 The Meaning of Reality.
 
 
-**Keywords** abhidhamma; buddhism; mindfulness; meditation; vipassana; insight
+**Keywords:** abhidhamma; buddhism; mindfulness; meditation; vipassana; insight
 
-**Language** English
+**Language:** English
 
-**Edition** First edition
+**Edition:** First edition
 
 **ISBN Complete:** 97918978633403
 
@@ -59,11 +59,11 @@ The Meaning of Reality.
 
 **Page Count:** 496
 
-**Book type** Hardback: Digital Cloth™ Cover - Blue, 6.140" x 9.210" (234mm x 156mm)
+**Book type:** Hardback: Digital Cloth™ Cover - Blue, 6.140" x 9.210" (234mm x 156mm)
 
 **Thema Subject Category:** QRFB1
 
-**Market pricing**
+**Market pricing:**
 
 Australia $ 50.00	
 European Union € 27.00	
@@ -88,11 +88,11 @@ Spain Printer Network $ 35.00
 
 **Name:** Abbott, Sarah Procter **Role:** Author
 
-**Biography**
+**Biography:**
 
 Sarah Procter Abbott has been studying and sharing the Buddha's teachings as preserved in the Theravadin (or Pali language) tradition for over 45 years, under the continuous guidance of the Thai Buddhist teacher Ajahn Sujin Boriharnwanaket. During this time she helped share the Dhamma in England, Hong Kong, Australia, Vietnam, Taiwan, Thailand, Sri Lanka and other countries. For the past 20 years she and her husband Jonothan have hosted an internet Buddhist discussion group, Dhamma Study Group. It currently has 1000 members and an archive of 170,000 messages. Sarah and Jonothan lived in Hong Kong for 40 years, until moving to Sydney recently. Sarah worked as a psychologist and teacher.
 
-**Prior Work**
+**Prior Work:**
 
 For the past 20 years she and her husband Jonothan have hosted an internet Buddhist discussion group, Dhamma Study Group. It currently has 1000 members and an archive of 170,000 messages.
 
@@ -105,7 +105,7 @@ For the past 20 years she and her husband Jonothan have hosted an internet Buddh
 
 **International Standard Name Identifier (ISNI):** 0000 0000 6398 0326
 
-**Biography**
+**Biography:**
 
 Nina van Gorkom was born in 1928 to a family of socialist intellectuals. Her father was a member of the Dutch parliament. She studied at Leyden University and during this time she became a Catholic. In 1952, she married Lodewijk van Gorkom, a Dutch diplomat.
 
