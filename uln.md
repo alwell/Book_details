@@ -1,4 +1,4 @@
-## About the book
+## Underestanding Life Now
 
  Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
@@ -11,36 +11,36 @@
 
 **Language** English
 
-**Edition** 
+**Edition** First edition
 
-**ISBN Complete:**
+**ISBN Complete:** 97918978633403
 
-**Publication Date:** 
+**Publication Date:** 26th January 2022
 
-**First published:** 
+**First published:** 26th January 2022
 
-**Page Count:** 
+**Page Count:** 496
 
-**Book type** 
+**Book type** Hardback: Digital Cloth™ Cover - Blue, 6.140" x 9.210" (234mm x 156mm)
 
 **Thema Subject Category:** QRFB1
 
 **Market pricing**
 
-Spain Printer Network 	XXX USD;
-United States 	XXX USD;
-United Kingdom 	XXX GBP;
-Canada 	XXX CAD;
-European Union 	XXX EUR;
-Australia (GST Exclusive) XXX AUD;
-Brazil Printer Network 	XXX USD;
-Germany Printer Network XXX USD;
-Russia Printer Network 	XXX USD;
-South Korea Printer Network 	XXX USD;
-Poland Printer Network 	XXX USD; 
-China Printer Network 	XXX USD; 
-India Printer Network 	XXX USD; 
-Italy Printer Network 	XXX USD. 
+Australia $ 50.00	
+European Union € 27.00	
+United Kingdom £ 24.00	
+United States $ 35.00	
+Brazil Printer Network $ 35.00
+China Printer Network $ 35.00
+Germany Printer Network $ 35.00
+India Printer Network	$ 35.00
+Italy Printer Network	$ 35.00
+Japan Printer Network $ 35.00
+South Korea Printer Network $ 35.00
+Poland Printer Network $ 35.00	
+Russia Printer Network $ 35.00
+Spain Printer Network $ 35.00
 
 **Reviews:**
 
