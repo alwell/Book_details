@@ -51,7 +51,7 @@ The Meaning of Reality.
 
 **Edition:** First edition
 
-**ISBN Complete:** 97918978633403
+**ISBN Complete:** 97818978633403
 
 **Publication Date:** 26th January 2022
 
