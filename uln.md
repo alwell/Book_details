@@ -6,7 +6,7 @@
 
 The beginning of the Buddha's Path is the understanding of life now, little by little. The Teachings of the Buddha are unique in revealing that each conditioned reality in life is not only impermanent and unsatisfactory but also anattā, not-self.
 
-This book consists of 276 Jottings taken from Zoom discussions during the Covid-19 pandemic.
+This book consists of 276 Jottings taken from Zoom discussions during the Covid-19 pandemic. They are all about the truth of life at the present moment as taught by the Buddha. They are for anyone with an interest in learning more about what is most precious in life: the understanding of what is real now as opposed to what we assume to be real.
 
 **Long Description:**
 
