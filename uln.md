@@ -9,26 +9,26 @@
 
 First 10 Jottings out of 276:
 
-1.1 Zoom jottings 1
-Conditions 
-1.2 Zoom jottings 2 
-The Best Medicine 
-1.3 Zoom jottings 3 
-Taking Refuge 
-1.4 Zoom jottings 4
-The Examination 
-1.5 Zoom jottings 5 
-Asavas 
-1.6 Zoom jottings 6 
-What is Vinaya? 
-1.7 Zoom jottings 7 
-The Truths 
-1.8 Zoom jottings 8
-Understanding has to Develop 
-1.9 Zoom jottings 9 
-What is Practice? 
-1.10 Zoom jottings 10 
-The Meaning of Reality 
+1.1 Zoom jottings 1,
+Conditions;
+1.2 Zoom jottings 2, 
+The Best Medicine; 
+1.3 Zoom jottings 3, 
+Taking Refuge; 
+1.4 Zoom jottings 4,
+The Examination;
+1.5 Zoom jottings 5, 
+Asavas; 
+1.6 Zoom jottings 6, 
+What is Vinaya?; 
+1.7 Zoom jottings 7, 
+The Truths; 
+1.8 Zoom jottings 8,
+Understanding has to Develop; 
+1.9 Zoom jottings 9, 
+What is Practice?; 
+1.10 Zoom jottings 10, 
+The Meaning of Reality.
 
 
 **Keywords** abhidhamma; buddhism; mindfulness; meditation; vipassana; insight
