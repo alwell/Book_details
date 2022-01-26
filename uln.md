@@ -48,7 +48,7 @@ Spain Printer Network $ 35.00
 
 ## About the authors
 
-**Name:** Abbott, Sarah Procter **Role** Author
+**Name:** Abbott, Sarah Procter **Role:** Author
 
 **Biography**
 
@@ -57,6 +57,8 @@ Sarah Procter Abbott has been studying and sharing the Buddha's teachings as pre
 **Prior Work**
 
 For the past 20 years she and her husband Jonothan have hosted an internet Buddhist discussion group, Dhamma Study Group. It currently has 1000 members and an archive of 170,000 messages.
+
+**Location:** Sidney, Australia
 
 **Name:** Gorkom, Nina Van 	**Role:** Author	
 
