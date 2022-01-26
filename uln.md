@@ -4,6 +4,20 @@
 
 **Short Description** 
 
+The beginning of the Buddha's Path is the understanding of life now, little by little. The Teachings of the Buddha are unique in revealing that each conditioned reality in life is not only impermanent and unsatisfactory but also anattā, not-self.
+
+This book consists of 276 Jottings taken from Zoom discussions during the Covid-19 pandemic.
+
+**Long Description**
+
+When trips to Vietnam, Taiwan, Thailand to share and study the Dhamma were cancelled due to Covid 19, Sarah and her husband Jonothan Abbott started to run Zoom discussions at the request of many friends. They were delighted that Ajahn Sujin from the Dhamma Study and Support Foundation, Thailand was able to join these zoom discussions and to take the lead. They have been extremely beneficial to many people around the world.
+
+The following jottings Sarah made and quotes Nina has given are based on these Zoom talks.
+
+They are all about the truth of life at the present moment as taught by the Buddha. They are for anyone with an interest in learning more about what is most precious in life: the understanding of what is real now as opposed to what we assume to be real.
+
+The beginning of the Path is the understanding of life now, little by little. The Teachings of the Buddha are unique in revealing that each conditioned reality in life is not only impermanent and unsatisfactory but also anattā, not-self.
+
 
 **Table of Contents** 
 
