@@ -1,4 +1,4 @@
-## Underestanding Life Now
+## Understanding Life Now
 
  Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
