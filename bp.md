@@ -1,5 +1,7 @@
 ## About The Buddha's Path
 
+(French translation available on Amazon and at this link: [https://archive.org/details/1-la-voie-du-bouddha](https://archive.org/details/1-la-voie-du-bouddha)
+
 An Introduction to the doctrine of Theravada Buddhism for those who have no previous knowledge. The four noble Truths - suffering - the origin of suffering - the cessation of suffering - and the way leading to the end of suffering - are explained as a philosophy and a practical guide which can be followed in today's world.
 
 The author has a deep authoritative background and has already had several books on the Abhidhamma (higher teaching) published. This book explains the Buddhist doctrine in a straightforward manner but does not shy away from the  'depth, subtlety and difficulty' of the original teaching. Contains 50 quotations from the original Pali texts.
