@@ -1,6 +1,6 @@
 ## About The Buddha's Path
 
-(French translation available on Amazon and at this link: [https://archive.org/details/1-la-voie-du-bouddha](https://archive.org/details/1-la-voie-du-bouddha)
+(French translation available on Amazon and at this link: [https://archive.org/details/1-la-voie-du-bouddha](https://archive.org/details/1-la-voie-du-bouddha)).
 
 An Introduction to the doctrine of Theravada Buddhism for those who have no previous knowledge. The four noble Truths - suffering - the origin of suffering - the cessation of suffering - and the way leading to the end of suffering - are explained as a philosophy and a practical guide which can be followed in today's world.
 
