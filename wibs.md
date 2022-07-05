@@ -1,8 +1,10 @@
-## About the book
+## The World in the Buddhist Sense
 
  Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
 **Short Description** 
+
+The purpose of this book is to show that the Buddha's Path to true understanding has to be developed in daily life. It explains the pitfalls one will come across while developing this path and the way to overcome them. The book is composed of letters written in answer to questions about the practice. It is suitable for any person interested to know how Buddhism understands the world.
 
 
 **Table of Contents** 
@@ -11,17 +13,17 @@
 
 **Language** English
 
-**Edition** 
+**Edition** 2nd Edition
 
-**ISBN Complete:**
+**ISBN Complete:** 978-1-897633-41-0
 
-**Publication Date:** 
+**Publication Date:** 1st July 2022
 
-**First published:** 
+**First published:** August 1994 (Triple Gem Press)
 
-**Page Count:** 
+**Page Count:** 144
 
-**Book type** 
+**Book type** Paperback, perfect bound
 
 **Thema Subject Category:** QRFB1
 
