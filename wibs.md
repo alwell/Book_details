@@ -42,19 +42,19 @@ The purpose of this book is to show that the Buddha's Path to true understanding
 **Market pricing**
 
 Spain Printer Network 	XXX USD;
-United States 	XXX USD;
-United Kingdom 	XXX GBP;
-Canada 	XXX CAD;
-European Union 	XXX EUR;
-Australia (GST Exclusive) XXX AUD;
-Brazil Printer Network 	XXX USD;
-Germany Printer Network XXX USD;
-Russia Printer Network 	XXX USD;
-South Korea Printer Network 	XXX USD;
-Poland Printer Network 	XXX USD; 
-China Printer Network 	XXX USD; 
-India Printer Network 	XXX USD; 
-Italy Printer Network 	XXX USD. 
+United States 	11 USD;
+United Kingdom 	8 GBP;
+Canada 	13 CAD;
+European Union 	10 EUR;
+Australia (GST Exclusive) 14 AUD;
+Brazil Printer Network 	11 USD;
+Germany Printer Network 11 USD;
+Russia Printer Network 	11 USD;
+South Korea Printer Network 	11 USD;
+Poland Printer Network 	11 USD; 
+China Printer Network 	11 USD; 
+India Printer Network 	11 USD; 
+Italy Printer Network 	11 USD. 
 
 ## About the author
 
