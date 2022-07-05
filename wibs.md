@@ -41,7 +41,7 @@ The purpose of this book is to show that the Buddha's Path to true understanding
 
 **Market pricing**
 
-Spain Printer Network 	XXX USD;
+Spain Printer Network 	11 USD;
 United States 	11 USD;
 United Kingdom 	8 GBP;
 Canada 	13 CAD;
