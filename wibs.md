@@ -9,6 +9,18 @@ The purpose of this book is to show that the Buddha's Path to true understanding
 
 **Table of Contents** 
 
+1 Introduction 
+2 The World 
+3 Wrong view 
+4 Clear Comprehension 
+5 Nama and rupa 
+6 Direct experience 
+7 Concentration on Breathing 
+8 Mindfulness of breathing 
+9 Doing complicated things 
+10 Right awareness 
+11 Pali Glossary 
+
 **Keywords** abhidhamma; buddhism; mindfulness; meditation; vipassana; insight
 
 **Language** English
@@ -43,10 +55,6 @@ Poland Printer Network 	XXX USD;
 China Printer Network 	XXX USD; 
 India Printer Network 	XXX USD; 
 Italy Printer Network 	XXX USD. 
-
-**Reviews:**
-
-
 
 ## About the author
 
