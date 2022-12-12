@@ -2,6 +2,8 @@
 
 ![Sarah,Nina,Sujin](https://alwell.github.io/Book_details/Sara,nina,sujin.jpeg)
 
+left-right: Nina van Gorkom, Sarah Procter Abbott, Sujin Boriharnwanaket
+
  Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
 **Short Description:** 
