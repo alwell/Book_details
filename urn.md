@@ -1,7 +1,7 @@
 
 ## Understanding Realities Now: Nina's Travelogues
 
-![Sarah, Nina and Sujin](https://alwell.github.io/Book_details/Sarah,nina,sujin.jpeg)
+![Nina](https://alwell.github.io/Book_details/nina.jpg)
 
  Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
