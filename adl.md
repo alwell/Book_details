@@ -15,15 +15,19 @@ Abhidhamma in Daily Life is an exposition of absolute realities in detail. Abhid
 
 **Edition** Fourth revision
 
-**ISBN Complete:** 978-1-897633-27-4 
+**ISBN Complete (hardback):** 978-1-897633-27-4 
 
-**Publication Date:** 1/12/2014
+**ISBN Complete (paperback): 978-1897633-44-1
+
+**First Publication Date (Zolag}:** 1/12/2014
 
 **First published:** 1977 (approximately) for free distribution.
 
-**Page Count:** 200 
+**Page Count:** 200 (hardback)
 
 **Book type** Hard back, plain cover, B&W 6.14 x 9.21in or 234 x 156mm (Royal 8vo) Blue Cloth on Creme
+
+**Book type** Paperback, colour cover, B&W 6.14 x 9.21in or 234 x 156mm.
 
 **Thema Subject Category:** QRFB1
 
