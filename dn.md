@@ -3,6 +3,7 @@
  Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
 **Description** 
+
 Dhamma Now is a collection of reflections based on discussions about the understanding of the truth as taught by the Buddha. This truth differs radically from our usual assumptions of the way things are, which can be likened to a dream world.
 
 Quotes from the Buddhist scriptures have been added to show how these reflections relate to the original teachings of the Buddha.
@@ -22,6 +23,7 @@ First edition
 
 **ISBN Complete:**
 9781897633472
+
 **Publication Date:** 
 1st May 2023
 
