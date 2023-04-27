@@ -2,45 +2,42 @@
 
  Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
-**Short Description** 
+**Description** 
+Dhamma Now is a collection of reflections based on discussions about the understanding of the truth as taught by the Buddha. This truth differs radically from our usual assumptions of the way things are, which can be likened to a dream world.
 
+Quotes from the Buddhist scriptures have been added to show how these reflections relate to the original teachings of the Buddha.
+
+This book is a shortened version of Understanding Life Now.
 
 **Table of Contents** 
+
+1.1 Zoom jottings 1, Conditions; 1.2 Zoom jottings 2, The Best Medicine; 1.3 Zoom jottings 3, Taking Refuge; 1.4 Zoom jottings 4, The Examination; 1.5 Zoom jottings 5, Asavas; 1.6 Zoom jottings 6, What is Vinaya?; 1.7 Zoom jottings 7, The Truths; 1.8 Zoom jottings 8, Understanding has to Develop; 1.9 Zoom jottings 9, What is Practice?; 1.10 Zoom jottings 10, The Meaning of Reality.
 
 **Keywords** abhidhamma; buddhism; mindfulness; meditation; vipassana; insight
 
 **Language** English
 
 **Edition** 
+First edition
 
 **ISBN Complete:**
-
+9781897633472
 **Publication Date:** 
-
-**First published:** 
+1st May 2023
 
 **Page Count:** 
+146
 
 **Book type** 
+Paperback
 
 **Thema Subject Category:** QRFB1
 
 **Market pricing**
 
-Spain Printer Network 	XXX USD;
-United States 	XXX USD;
-United Kingdom 	XXX GBP;
-Canada 	XXX CAD;
-European Union 	XXX EUR;
-Australia (GST Exclusive) XXX AUD;
-Brazil Printer Network 	XXX USD;
-Germany Printer Network XXX USD;
-Russia Printer Network 	XXX USD;
-South Korea Printer Network 	XXX USD;
-Poland Printer Network 	XXX USD; 
-China Printer Network 	XXX USD; 
-India Printer Network 	XXX USD; 
-Italy Printer Network 	XXX USD. 
+
+United Kingdom 	10 GBP;
+
 
 **Reviews:**
 
@@ -48,22 +45,14 @@ Italy Printer Network 	XXX USD.
 
 ## About the author
 
-**Name:** Gorkom, Nina Van 	**Role:** Author	
+**Name:** Procter-Abbott, Sarah	**Role:** Author	
 
-**International Standard Name Identifier (ISNI):** 0000 0000 6398 0326
 
 **Biography**
 
-Nina van Gorkom was born in 1928 to a family of socialist intellectuals. Her father was a member of the Dutch parliament. She studied at Leyden University and during this time she became a Catholic. In 1952, she married Lodewijk van Gorkom, a Dutch diplomat.
-
-In 1965, Lodewijk was posted to Thailand and Nina started learning the Thai language. She took a keen interest in Buddhism, attending classes for foreigners at Wat Mahathat. There she met, in the summer of 1966, Sujin Boriharnwanaket. Impressed by the profundity of the Buddhist teachings, she became convinced of the truth of the Buddha’s words and later assisted Khun Sujin in discussions about Buddhism for Thai radio stations. These talks were later published as Buddhism in Daily Life, her first book.
-
-Nina and Lodewijk left Thailand in 1970 and lived in Japan, New York, Indonesia (where Lodewijk was the Dutch ambassador) and Austria. Lodewijk retired in 1990 and she now lives in The Hague in Holland.
-
-Nina’s writings are well-known amongst English speaking Buddhists, and she is highly respected in Thailand where several of her books have been translated into the Thai language with (after many reprints) over one hundred thousand copies now. Her books have also been translated in Sri Lanka, Indonesia, Nepal, China, Vietnam and Germany. 
- 
+Sarah Procter Abbott has been studying and sharing the Buddha's teachings as preserved in the Theravadin (or Pali language) tradition for over 45 years, under the continuous guidance of the Thai Buddhist teacher Ajahn Sujin Boriharnwanaket. During this time she helped share the Dhamma in England, Hong Kong, Australia, Vietnam, Taiwan, Thailand, Sri Lanka and other countries. For the past 20 years she and her husband Jonothan have hosted an internet Buddhist discussion group, Dhamma Study Group. It currently has 1000 members and an archive of 170,000 messages. Sarah and Jonothan lived in Hong Kong for 40 years, until moving to Sydney recently. Sarah worked as a psychologist and teacher.
 **Prior Work:**
 
-Buddhism in Daily Life; The Buddha's Path; Cetasikas; A Survey of Paramattha Dhammas (translator); The Perfections Leading to Enlightenment; Lovingkindness in Buddhism; The Conditionality of life; The Buddhist Teaching on Physical Phenomena; Taking Refuge in Buddhism (translator); The World in the Buddhist Sense; Understanding Reality; Introduction to Abhidhamma; Abhidhamma in Daily Life.
+For the past 20 years she and her husband Jonothan have hosted an internet Buddhist discussion group, Dhamma Study Group. It currently has 1000 members and an archive of 170,000 messages. 
  
-**Location**: The Hague, Holland.
+**Location**: Sidney, Australia
