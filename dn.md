@@ -1,4 +1,4 @@
-## About the book
+## Dhamma Now
 
  Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
