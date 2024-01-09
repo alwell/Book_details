@@ -22,14 +22,14 @@ Sarah and Jonothan Abbott
 
 Words of the Buddha from the sutta ‘A Single Excellent Night’:
 
-"Let not a person revive the past
-or on the future build his hopes;
-For the past has been left behind
-And the future has not been reached.
-Instead with insight let him see
-Each presently arisen state;
-Let him know that and be sure of it,
-Invincibly, unshakeably.
-Today Death may come, who knows?"
+>"Let not a person revive the past  
+or on the future build his hopes;  
+For the past has been left behind  
+And the future has not been reached.  
+Instead with insight let him see  
+Each presently arisen state;  
+Let him know that and be sure of it,  
+Invincibly, unshakeably.  
+Today Death may come, who knows?"  
 
 *MN 131, Translated by Bhikkhu Ñāṇamoli and Bhikkhu Bodhi*
