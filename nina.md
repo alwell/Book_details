@@ -30,6 +30,10 @@ Location: The Hague, Holland.
 
 [https://github.com/alwell/Zolag_Archive/blob/master/Nina_van_Gorkom/nina_interview.md](https://github.com/alwell/Zolag_Archive/blob/master/Nina_van_Gorkom/nina_interview.md)
 
+#### [**In memory of Nina van Gorkom**](https://alwell.github.io/Book_details/ninatribute)
+
+by Sarah and Jonothan Abbott 6 January 2024
+
 #### Summary by ChatGPT AI
 
 Nina van Gorkom, born in 1928, is a respected Buddhist scholar and translator, particularly in the Pali tradition, known for her extensive writings on the Abhidhamma. She became engaged with Buddhism during her stay in Thailand, where she studied under Thai teachers and was notably influenced by Sujin Boriharnwanaket​​​​. Her works are valuable resources for understanding the deeper aspects of Theravada Buddhism and have been influential in the dissemination of these teachings in the West.
