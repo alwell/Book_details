@@ -8,7 +8,8 @@ Helps the reader gain insight into how Buddhism works to understand life.The Bud
 
 **Long description**
 
-    - It is by conditions that at this moment seeing arises then hearing, then perhaps dying, we never know the next moment. It is all beyond control. Each consciousness, citta, falls away but it conditions the next one and that is why tendencies are carried on from moment to moment and from life to life. 
+    * It is by conditions that at this moment seeing arises then hearing, then perhaps dying, we never know the next moment. It is all beyond control. Each consciousness, citta, falls away but it conditions the next one and that is why tendencies are carried on from moment to moment and from life to life. 
+    
      - What we take to be a person are just different mental and physical phenomena arising and passing away. The Buddha analyzed these in detail as nama (mind/mental factors) and rupa (physical/material phenomena).
      - Nama can experience or know objects, while rupa cannot experience but can be experienced by nama. Seeing is nama that experiences visible object or rupa.
      Consciousness (citta) is the chief mental factor that arises to know an object. It is supported by other mental factors (cetasikas) that each have their own function.
