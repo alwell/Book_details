@@ -52,7 +52,7 @@ Paperback "7x5"
 
 **Market pricing**
 
-Spain Printer Network 	XXX USD;
+Spain Printer Network 	7.99 USD;
 United States 	7.99 USD;
 United Kingdom 	6 GBP;
 Canada 	10.99 CAD;
