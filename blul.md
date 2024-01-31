@@ -7,22 +7,15 @@
 Helps the reader gain insight into how Buddhism works to understand life.The Buddha taught that all mental phenomena and physical phenomena which naturally appear in our daily life can be objects of mindfulness and right understanding.
 
 **Long description**
-
-    - It is by conditions that at this moment seeing arises then hearing, then perhaps dying, we never know the next moment. It is all beyond control. Each consciousness, citta, falls away but it conditions the next one and that is why tendencies are carried on from moment to moment and from life to life. 
-    
-     - What we take to be a person are just different mental and physical phenomena arising and passing away. The Buddha analyzed these in detail as nama (mind/mental factors) and rupa (physical/material phenomena).
-     
-     - Nama can experience or know objects, while rupa cannot experience but can be experienced by nama. Seeing is nama that experiences visible object or rupa.
+- It is by conditions that at this moment seeing arises then hearing, then perhaps dying, we never know the next moment. It is all beyond control. Each consciousness, citta, falls away but it conditions the next one and that is why tendencies are carried on from moment to moment and from life to life. 
+- What we take to be a person are just different mental and physical phenomena arising and passing away. The Buddha analyzed these in detail as nama (mind/mental factors) and rupa (physical/material phenomena).
+- Nama can experience or know objects, while rupa cannot experience but can be experienced by nama. Seeing is nama that experiences visible object or rupa.
      Consciousness (citta) is the chief mental factor that arises to know an object. It is supported by other mental factors (cetasikas) that each have their own function.
      Consciousness and mental factors arise in processes or series, experiencing objects through the sense doors and mind door. This shows their impermanence and non-self nature.
-     
-    - There are many different types of consciousness - wholesome, unwholesome, results of past kamma. We cannot control what type arises, only understand them.
-    
-     - The aim is to develop understanding of realities as they are, as impermanent and non-self. This understanding can gradually eliminate ignorance and attachment to self.
-     
-     - Mindfulness (sati) arises to remember or be aware of whatever reality appears in the present moment. It is not self-induced but depends on conditions.
-     
-     - The Buddha's teachings help live naturally while seeing the true nature of experiences, not relying on self. 
+- There are many different types of consciousness - wholesome, unwholesome, results of past kamma. We cannot control what type arises, only understand them.
+- The aim is to develop understanding of realities as they are, as impermanent and non-self. This understanding can gradually eliminate ignorance and attachment to self.
+- Mindfulness (sati) arises to remember or be aware of whatever reality appears in the present moment. It is not self-induced but depends on conditions.
+- The Buddha's teachings help live naturally while seeing the true nature of experiences, not relying on self. 
 
 
 **Table of Contents** 
@@ -39,32 +32,40 @@ First
 
 **ISBN Complete:**
 
+978-1-897633-50-2
+
 **Publication Date:** 
+
+1st February 2024
 
 **First published:** 
 
 **Page Count:** 
 
+66
+
 **Book type** 
+
+Paperback "7x5"
 
 **Thema Subject Category:** QRFB1
 
 **Market pricing**
 
 Spain Printer Network 	XXX USD;
-United States 	XXX USD;
-United Kingdom 	XXX GBP;
-Canada 	XXX CAD;
-European Union 	XXX EUR;
-Australia (GST Exclusive) XXX AUD;
-Brazil Printer Network 	XXX USD;
-Germany Printer Network XXX USD;
-Russia Printer Network 	XXX USD;
-South Korea Printer Network 	XXX USD;
-Poland Printer Network 	XXX USD; 
-China Printer Network 	XXX USD; 
-India Printer Network 	XXX USD; 
-Italy Printer Network 	XXX USD. 
+United States 	7.99 USD;
+United Kingdom 	6 GBP;
+Canada 	10.99 CAD;
+European Union 	6.99 EUR;
+Australia (GST Exclusive) 11.99 AUD;
+Brazil Printer Network 	7.99 USD;
+Germany Printer Network 7.99 USD;
+Russia Printer Network 	7.99 USD;
+South Korea Printer Network 	7.99 USD;
+Poland Printer Network 7.99 USD; 
+China Printer Network 	7.99 USD; 
+India Printer Network 	7.99 USD; 
+Italy Printer Network 	7.99 USD. 
 
 **Reviews:**
 
