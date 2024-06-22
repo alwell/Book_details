@@ -6,7 +6,7 @@
 ![Sujin](https://alwell.github.io/Book_details/sujin.jpg)
 
 
-*Birth Date:* January 13, 1927.
+*Birth Date:* January 13, 1926.
 
 
 *Place of Birth:* Ubon Ratchathani, Thailand.
