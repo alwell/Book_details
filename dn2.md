@@ -4,6 +4,8 @@ Video description: [https://youtu.be/hmpqXEwcDgs?si=tW0XJAatK1BucB5W](https://yo
 
 Support Web Site [https://alwell.github.io/Support/](https://alwell.github.io/Support/)
 
+Free downloadable PDF: [https://archive.org/details/9781897633533-text](https://archive.org/details/9781897633533-text)
+
 **Description** 
 
 This book comprises a collection of summaries and discussions focused on the understanding of reality as taught by the Buddha, specifically within the Theravāda tradition. The text explores various aspects of Dhamma in daily life, drawing from Zoom discussions with Ajahn Sujin Boriharnwanaket and supported by quotes from Buddhist scriptures. Key themes include the impermanence and non-self nature of all phenomena (anicca and anattā), the importance of right understanding (paññā) over conventional ideas of self or practice, and the subtle workings of consciousness (citta) and mental factors (cetasikas) in shaping experience and perpetuating suffering (dukkha) through attachment and ignorance. The book's purpose is to assist readers in developing this understanding to gradually eradicate defilements and progress towards enlightenment.
